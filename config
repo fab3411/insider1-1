@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[lfs]
+	repositoryformatversion = 0
+[branch "main"]
+	vscode-merge-base = origin/main
+[gui]
+	wmstate = normal
+	geometry = 893x435+208+208 175 196
+[remote "origin"]
+	url = https://github.com/VOTRE_PSEUDO/Insider1.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
